@@ -11,7 +11,8 @@
 This package includes our codes for implementing "Color as the Impetus: Transforming Few-Shot Learner". 
 (First Release Date: 2025-05-22)
 
->Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w 
+>Benchmark Link: https://pan.baidu.com/s/1KiIZ0FXkGPnhsq0sXjrsZA Code: cf5w
+
 >Our Paper: https://arxiv.org/pdf/2507.22136
 
 ## 1.Introduction
