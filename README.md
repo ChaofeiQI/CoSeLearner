@@ -42,7 +42,7 @@ Numerous experiments reveal that our methods have extremely strong generalizatio
 ├── places                       ├── Stanford_Car                 ├── CropDisease                    ├── EuroSAT
 │   ├── places_test.pickle       │   ├── Stanford_Car_test.pickle │   ├── CropDisease_test.pickle    │   ├── EuroSAT_test.pickle
 ```
-Prepare you own pickle dataset? Please refer our scrpits: https://github.com/ChaofeiQI/CoSeLearner/releases/tag/Pickle-and-Unpickle-Dataset
+Prepare you own pickle dataset? Please refer to our scrpits: https://github.com/ChaofeiQI/CoSeLearner/releases/tag/Pickle-and-Unpickle-Dataset
 
 ## 3.Meta-training,  Meta-testing, and Knowledge distillation
 
