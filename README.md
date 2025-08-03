@@ -28,7 +28,7 @@ Numerous experiments reveal that our methods have extremely strong generalizatio
 
 
 ## 2.Few-shot Benchmarks Preparation   
-Want to prepare you own pickle dataset? Please refer our scrpits: https://github.com/ChaofeiQI/CoSeLearner/releases/tag/Pickle-and-Unpickle-Dataset
+
 ```
 12 Benchmarks Materials:
 ├── CIFAR_FS                     ├── FC100                        ├── mini_imagenet                  ├── tieredimagenet_npz
@@ -42,7 +42,7 @@ Want to prepare you own pickle dataset? Please refer our scrpits: https://github
 ├── places                       ├── Stanford_Car                 ├── CropDisease                    ├── EuroSAT
 │   ├── places_test.pickle       │   ├── Stanford_Car_test.pickle │   ├── CropDisease_test.pickle    │   ├── EuroSAT_test.pickle
 ```
-
+Want to prepare you own pickle dataset? Please refer our scrpits: https://github.com/ChaofeiQI/CoSeLearner/releases/tag/Pickle-and-Unpickle-Dataset
 
 ## 3.Meta-training,  Meta-testing, and Knowledge distillation
 
